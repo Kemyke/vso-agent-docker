@@ -16,3 +16,6 @@ sudo docker run --name=agent1 -it \
 ```
 
 You have to add this user to roles "Agent Pool Administrators" and "Agent Pool Service Acconts" on the TFS.
+
+
+Thx to @ahoka.
