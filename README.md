@@ -11,7 +11,7 @@ sudo docker run --name=agent1 -it \
                 -e TFS_PWD=password_of_tfs_user \
                 -e TFS_AGENTPOOL=pool_name \
                 -e TFS_AGENTNAME=linuxagent \
-          buildagentexpect
+          kemy/vso-agent
 
 ```
 
